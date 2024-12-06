@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <Venta Total="5500" Hora="131003" Folio="50">
+    <ItemVenta RowNum="1">
+      <Codigo>AZU01</Codigo>
+      <Descripcion>AZUCAR IANSA 1 KG.</Descripcion>
+      <Unidad>KG</Unidad>
+      <Cantidad>1,00</Cantidad>
+      <Precio>500</Precio>
+      <Total_Item>500</Total_Item>
+    </ItemVenta>
+    <ItemVenta RowNum="2">
+      <Codigo>CAF01</Codigo>
+      <Descripcion>NESCAFE 700 GRS.</Descripcion>
+      <Unidad>TARRO</Unidad>
+      <Cantidad>1,00</Cantidad>
+      <Precio>5.000</Precio>
+      <Total_Item>5000</Total_Item>
+    </ItemVenta>
+  </Venta>
+</root>

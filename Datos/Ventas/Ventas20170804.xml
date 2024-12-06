@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <Venta Total="40300" Hora="114943" Folio="54">
+    <ItemVenta RowNum="1">
+      <Codigo>CAF01</Codigo>
+      <Descripcion>NESCAFE 700 GRS.</Descripcion>
+      <Unidad>TARRO</Unidad>
+      <Cantidad>8,00</Cantidad>
+      <Precio>5.000</Precio>
+      <Total_Item>40000</Total_Item>
+    </ItemVenta>
+    <ItemVenta RowNum="2">
+      <Codigo>MANI01</Codigo>
+      <Descripcion>MANI CONFITADO</Descripcion>
+      <Unidad>BOLSA</Unidad>
+      <Cantidad>1,00</Cantidad>
+      <Precio>300</Precio>
+      <Total_Item>300</Total_Item>
+    </ItemVenta>
+  </Venta>
+</root>

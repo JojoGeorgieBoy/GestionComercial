@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <Venta Total="3000" Hora="144706" Folio="55">
+    <ItemVenta RowNum="1">
+      <Codigo>MANI01</Codigo>
+      <Descripcion>MANI CONFITADO</Descripcion>
+      <Unidad>BOLSA</Unidad>
+      <Cantidad>10,00</Cantidad>
+      <Precio>300</Precio>
+      <Total_Item>3000</Total_Item>
+    </ItemVenta>
+  </Venta>
+</root>

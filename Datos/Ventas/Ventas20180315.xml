@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <Venta Total="19536" Hora="145412" Folio="60">
+    <ItemVenta RowNum="1">
+      <Codigo>4444</Codigo>
+      <Descripcion>CUATRO</Descripcion>
+      <Unidad>CAJA</Unidad>
+      <Cantidad>444,00</Cantidad>
+      <Precio>44</Precio>
+      <Total_Item>19536</Total_Item>
+    </ItemVenta>
+  </Venta>
+</root>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <Venta Total="33000" Hora="181424" Folio="58">
+    <ItemVenta RowNum="1">
+      <Codigo>CARN01</Codigo>
+      <Descripcion>CARNE VACUNO LOMO VETADO</Descripcion>
+      <Unidad>KG</Unidad>
+      <Cantidad>3,00</Cantidad>
+      <Precio>10.000</Precio>
+      <Total_Item>30000</Total_Item>
+    </ItemVenta>
+    <ItemVenta RowNum="2">
+      <Codigo>PAPA01</Codigo>
+      <Descripcion>PAPAS CORAHILAS</Descripcion>
+      <Unidad>SACO</Unidad>
+      <Cantidad>1,00</Cantidad>
+      <Precio>3.000</Precio>
+      <Total_Item>3000</Total_Item>
+    </ItemVenta>
+  </Venta>
+</root>

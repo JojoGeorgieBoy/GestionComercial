@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <Venta Total="8600" Hora="155539" Folio="51">
+    <ItemVenta RowNum="1">
+      <Codigo>KOKOKO</Codigo>
+      <Descripcion>LOS POLLOS HERMANOS</Descripcion>
+      <Unidad>CAJA</Unidad>
+      <Cantidad>1,00</Cantidad>
+      <Precio>1.000</Precio>
+      <Total_Item>1000</Total_Item>
+    </ItemVenta>
+    <ItemVenta RowNum="2">
+      <Codigo>BALSAM01</Codigo>
+      <Descripcion>BALSAMO BALLERINA</Descripcion>
+      <Unidad>UNIDAD</Unidad>
+      <Cantidad>2,00</Cantidad>
+      <Precio>3.550</Precio>
+      <Total_Item>7100</Total_Item>
+    </ItemVenta>
+    <ItemVenta RowNum="3">
+      <Codigo>AZU01</Codigo>
+      <Descripcion>AZUCAR IANSA 1 KG.</Descripcion>
+      <Unidad>KG</Unidad>
+      <Cantidad>1,00</Cantidad>
+      <Precio>500</Precio>
+      <Total_Item>500</Total_Item>
+    </ItemVenta>
+  </Venta>
+  <Venta Total="35000" Hora="163916" Folio="52">
+    <ItemVenta RowNum="1">
+      <Codigo>AZU01</Codigo>
+      <Descripcion>AZUCAR IANSA 1 KG.</Descripcion>
+      <Unidad>KG</Unidad>
+      <Cantidad>60,00</Cantidad>
+      <Precio>500</Precio>
+      <Total_Item>30000</Total_Item>
+    </ItemVenta>
+    <ItemVenta RowNum="2">
+      <Codigo>CAF01</Codigo>
+      <Descripcion>NESCAFE 700 GRS.</Descripcion>
+      <Unidad>TARRO</Unidad>
+      <Cantidad>1,00</Cantidad>
+      <Precio>5.000</Precio>
+      <Total_Item>5000</Total_Item>
+    </ItemVenta>
+  </Venta>
+  <Venta Total="5100" Hora="165419" Folio="53">
+    <ItemVenta RowNum="1">
+      <Codigo>PAPA01</Codigo>
+      <Descripcion>PAPAS CORAHILAS</Descripcion>
+      <Unidad>KG</Unidad>
+      <Cantidad>12,00</Cantidad>
+      <Precio>300</Precio>
+      <Total_Item>3600</Total_Item>
+    </ItemVenta>
+    <ItemVenta RowNum="2">
+      <Codigo>AZU01</Codigo>
+      <Descripcion>AZUCAR IANSA 1 KG.</Descripcion>
+      <Unidad>KG</Unidad>
+      <Cantidad>3,00</Cantidad>
+      <Precio>500</Precio>
+      <Total_Item>1500</Total_Item>
+    </ItemVenta>
+  </Venta>
+</root>

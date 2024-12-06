@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <Venta Total="15000" Hora="150544" Folio="61">
+    <ItemVenta RowNum="1">
+      <Codigo>CAF01</Codigo>
+      <Descripcion>NESCAFE 700 GRS.</Descripcion>
+      <Unidad>TARRO</Unidad>
+      <Cantidad>1,00</Cantidad>
+      <Precio>5.000</Precio>
+      <Total_Item>5000</Total_Item>
+    </ItemVenta>
+    <ItemVenta RowNum="2">
+      <Codigo>CARN01</Codigo>
+      <Descripcion>CARNE VACUNO LOMO VETADO</Descripcion>
+      <Unidad>KG</Unidad>
+      <Cantidad>1,00</Cantidad>
+      <Precio>10.000</Precio>
+      <Total_Item>10000</Total_Item>
+    </ItemVenta>
+  </Venta>
+  <Venta Total="16840" Hora="152203" Folio="62">
+    <ItemVenta RowNum="1">
+      <Codigo>KOKOKO</Codigo>
+      <Descripcion>LOS POLLOS HERMANOS</Descripcion>
+      <Unidad>CAJA</Unidad>
+      <Cantidad>2,00</Cantidad>
+      <Precio>1.000</Precio>
+      <Total_Item>2000</Total_Item>
+    </ItemVenta>
+    <ItemVenta RowNum="2">
+      <Codigo>MANI01</Codigo>
+      <Descripcion>MANI CONFITADO</Descripcion>
+      <Unidad>BOLSA</Unidad>
+      <Cantidad>5,00</Cantidad>
+      <Precio>300</Precio>
+      <Total_Item>1500</Total_Item>
+    </ItemVenta>
+    <ItemVenta RowNum="3">
+      <Codigo>AZU01</Codigo>
+      <Descripcion>AZUCAR IANSA 1 KG.</Descripcion>
+      <Unidad>KG</Unidad>
+      <Cantidad>2,00</Cantidad>
+      <Precio>500</Precio>
+      <Total_Item>1000</Total_Item>
+    </ItemVenta>
+    <ItemVenta RowNum="4">
+      <Codigo>234WERWQER</Codigo>
+      <Descripcion>WHISKEY</Descripcion>
+      <Unidad>BOTELLA</Unidad>
+      <Cantidad>1,00</Cantidad>
+      <Precio>12.340</Precio>
+      <Total_Item>12340</Total_Item>
+    </ItemVenta>
+  </Venta>
+</root>

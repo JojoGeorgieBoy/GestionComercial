@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <Venta Total="10500" Hora="102010" Folio="56">
+    <ItemVenta RowNum="1">
+      <Codigo>AZU01</Codigo>
+      <Descripcion>AZUCAR IANSA 1 KG.</Descripcion>
+      <Unidad>KG</Unidad>
+      <Cantidad>1,00</Cantidad>
+      <Precio>500</Precio>
+      <Total_Item>500</Total_Item>
+    </ItemVenta>
+    <ItemVenta RowNum="2">
+      <Codigo>CAF01</Codigo>
+      <Descripcion>NESCAFE 700 GRS.</Descripcion>
+      <Unidad>TARRO</Unidad>
+      <Cantidad>2,00</Cantidad>
+      <Precio>5.000</Precio>
+      <Total_Item>10000</Total_Item>
+    </ItemVenta>
+  </Venta>
+  <Venta Total="145500" Hora="105229" Folio="57">
+    <ItemVenta RowNum="1">
+      <Codigo>BALSAM01</Codigo>
+      <Descripcion>BALSAMO BALLERINA</Descripcion>
+      <Unidad>UNIDAD</Unidad>
+      <Cantidad>10,00</Cantidad>
+      <Precio>3.550</Precio>
+      <Total_Item>35500</Total_Item>
+    </ItemVenta>
+    <ItemVenta RowNum="2">
+      <Codigo>CARN01</Codigo>
+      <Descripcion>CARNE VACUNO LOMO VETADO</Descripcion>
+      <Unidad>KG</Unidad>
+      <Cantidad>10,00</Cantidad>
+      <Precio>10.000</Precio>
+      <Total_Item>100000</Total_Item>
+    </ItemVenta>
+    <ItemVenta RowNum="3">
+      <Codigo>KOKOKO</Codigo>
+      <Descripcion>LOS POLLOS HERMANOS</Descripcion>
+      <Unidad>CAJA</Unidad>
+      <Cantidad>10,00</Cantidad>
+      <Precio>1.000</Precio>
+      <Total_Item>10000</Total_Item>
+    </ItemVenta>
+  </Venta>
+</root>

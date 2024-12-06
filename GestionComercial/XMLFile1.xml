@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <ItemVenta RowNum="1">
+    <Codigo>BALSAM01</Codigo>
+    <Descripcion>BALSAMO BALLERINA</Descripcion>
+    <Unidad>UNIDAD</Unidad>
+    <Cantidad>10,00</Cantidad>
+    <Precio>3.550</Precio>
+    <Total_Item>35500</Total_Item>
+  </ItemVenta>
+  <ItemVenta RowNum="2">
+    <Codigo>CARN01</Codigo>
+    <Descripcion>CARNE VACUNO LOMO VETADO</Descripcion>
+    <Unidad>KG</Unidad>
+    <Cantidad>10,00</Cantidad>
+    <Precio>10.000</Precio>
+    <Total_Item>100000</Total_Item>
+  </ItemVenta>
+  <ItemVenta RowNum="3">
+    <Codigo>KOKOKO</Codigo>
+    <Descripcion>LOS POLLOS HERMANOS</Descripcion>
+    <Unidad>CAJA</Unidad>
+    <Cantidad>10,00</Cantidad>
+    <Precio>1.000</Precio>
+    <Total_Item>10000</Total_Item>
+  </ItemVenta>
+</root>

@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <Producto Codigo="AZU01">
+    <Descripcion>AZUCAR IANSA 1 KG.</Descripcion>
+    <Unidad>KG</Unidad>
+    <Precio>500</Precio>
+    <Cantidad>30</Cantidad>
+    <Fecha>20180315</Fecha>
+  </Producto>
+  <Producto Codigo="BALSAM01">
+    <Descripcion>BALSAMO BALLERINA</Descripcion>
+    <Unidad>UNIDAD</Unidad>
+    <Precio>3550</Precio>
+    <Cantidad>100</Cantidad>
+    <Fecha>20180315</Fecha>
+  </Producto>
+  <Producto Codigo="BONCAR">
+    <Descripcion>BOLSA DE CARBÓN DE ESPINO 5 KG</Descripcion>
+    <Unidad>BOLSA</Unidad>
+    <Precio>2000</Precio>
+    <Cantidad>100</Cantidad>
+    <Fecha>20180315</Fecha>
+  </Producto>
+  <Producto Codigo="CARN01">
+    <Descripcion>CARNE VACUNO LOMO VETADO</Descripcion>
+    <Unidad>KG</Unidad>
+    <Precio>10000</Precio>
+    <Cantidad>10</Cantidad>
+    <Fecha>20180315</Fecha>
+  </Producto>
+  <Producto Codigo="4444">
+    <Descripcion>CUATRO</Descripcion>
+    <Unidad>CAJA</Unidad>
+    <Precio>44</Precio>
+    <Cantidad>44</Cantidad>
+    <Fecha>20180315</Fecha>
+  </Producto>
+  <Producto Codigo="821401923">
+    <Descripcion>LECTOR LASER CODIGO INFERIOR</Descripcion>
+    <Unidad>UNIDAD</Unidad>
+    <Precio>19900</Precio>
+    <Cantidad>10</Cantidad>
+    <Fecha>20180315</Fecha>
+  </Producto>
+  <Producto Codigo="LS'4209'SR2012">
+    <Descripcion>LECTOR LASER CODIGO SUPERIOR</Descripcion>
+    <Unidad>UNIDAD</Unidad>
+    <Precio>19900</Precio>
+    <Cantidad>1</Cantidad>
+    <Fecha>20180315</Fecha>
+  </Producto>
+  <Producto Codigo="KOKOKO">
+    <Descripcion>LOS POLLOS HERMANOS</Descripcion>
+    <Unidad>CAJA</Unidad>
+    <Precio>1000</Precio>
+    <Cantidad>10</Cantidad>
+    <Fecha>20180315</Fecha>
+  </Producto>
+  <Producto Codigo="MANI01">
+    <Descripcion>MANI CONFITADO</Descripcion>
+    <Unidad>BOLSA</Unidad>
+    <Precio>300</Precio>
+    <Cantidad>15</Cantidad>
+    <Fecha>20180315</Fecha>
+  </Producto>
+  <Producto Codigo="CAF01">
+    <Descripcion>NESCAFE 700 GRS.</Descripcion>
+    <Unidad>TARRO</Unidad>
+    <Precio>5000</Precio>
+    <Cantidad>100</Cantidad>
+    <Fecha>20180315</Fecha>
+  </Producto>
+  <Producto Codigo="PAPA01">
+    <Descripcion>PAPAS CORAHILAS</Descripcion>
+    <Unidad>SACO</Unidad>
+    <Precio>3000</Precio>
+    <Cantidad>50</Cantidad>
+    <Fecha>20180315</Fecha>
+  </Producto>
+  <Producto Codigo="CELU1">
+    <Descripcion>SAMSUNG GALAXY</Descripcion>
+    <Unidad>UNIDAD</Unidad>
+    <Precio>110000</Precio>
+    <Cantidad>20</Cantidad>
+    <Fecha>20180315</Fecha>
+  </Producto>
+  <Producto Codigo="234WERWQER">
+    <Descripcion>WHISKEY</Descripcion>
+    <Unidad>BOTELLA</Unidad>
+    <Precio>12340</Precio>
+    <Cantidad>333</Cantidad>
+    <Fecha>20180315</Fecha>
+  </Producto>
+</root>

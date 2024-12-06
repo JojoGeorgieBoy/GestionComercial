@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="_FileProductos" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\GestionComercial\Datos\Productos.xml</Value>
+    </Setting>
+    <Setting Name="_FileVentas" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\GestionComercial\Datos\Ventas\Ventas</Value>
+    </Setting>
+    <Setting Name="_FileFolio" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\GestionComercial\Datos\Folio.xml</Value>
+    </Setting>
+    <Setting Name="_FolderVentas" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\GestionComercial\Datos\Ventas</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
